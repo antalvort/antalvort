@@ -1,4 +1,4 @@
-![Banner personal](['banner github.jpg'](https://github.com/antalvort/antalvort/blob/bdbdeb6e220b3a5ac5bd65f9a485eda01977a921/banner%20github.jpg))
+![Banner personal](https://github.com/antalvort/antalvort/blob/bdbdeb6e220b3a5ac5bd65f9a485eda01977a921/banner%20github.jpg)
 
 # ¡Hola! 👋 Soy Antonio!
 
