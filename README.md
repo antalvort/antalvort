@@ -46,11 +46,11 @@ I hold several certifications and continue to learn constantly to grow professio
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" width="160" height="80">
   <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" width="160" height="80">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub" width="160" height="80">
-  
-  <!-- Badges agregados -->
   <img src="https://img.shields.io/badge/scikit--learn-0.24.2-green" alt="scikit-learn" width="160" height="80">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" width="160" height="80">
   <img src="https://img.shields.io/badge/MySQL-8.0.26-blue" alt="MySQL" width="160" height="80">
+  <img src="https://img.shields.io/badge/Pentaho-FF6600?style=flat-square&logo=pentaho&logoColor=white" alt="Pentaho" width="160" height="80">
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-big-query&logoColor=white" alt="BigQuery" width="160" height="80">
 
 </div>
 
