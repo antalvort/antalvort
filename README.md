@@ -4,13 +4,22 @@
 
 ### Ciencia de datos | Análisis de datos | Explorando el análisis de datos con Python, Tableau y R 📊
 
-¿Que hace este boton?
+(English below 👇🏻)
 
-- 🌱 Actualmente estoy aprendiendo **R** y trabajando en gráficos de ventas agrupados por mes.
+¿Que hace este boton? ⏺️
+Esa es la pregunta que mas me he hecho durante toda mi vida. La ingeniería inversa, la pasión por saber mas cosas me ha definido desde siempre. Aficionado a la informática, la robótica y la tecnología en general, la curiosidad me llevó al mundo de los datos durante mi periodo universitario, haciendo análisis estadísticos en grupos de estudio en yacimientos arqueológicos.
+Siempre unido a esta curiosidad he orientado mi carrera a la analítica, la ciencia de datos y el aprendizaje de máquina.
+Cuento con varias certificaciones y sigo en aprendizaje constante para crecer profesionalmente en este terreno.
+
+- 📊 En mi portfolio puedes ver los proyectos en los que he estado trabajando 📊
+- 📚 Actualmente estoy aprendiendo **R** y **Power Bi**.
 - 🎯 Mis próximos objetivos incluyen profundizar en **inteligencia artificial** .
 - 💬 Pregúntame sobre **Ciencia de datos, análisis de datos** o **automatización**.
+- 
 
-### Tecnologías que uso<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+### Tecnologías que uso
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" width="160" height="80">
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" width="160" height="80">
