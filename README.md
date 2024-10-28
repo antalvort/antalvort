@@ -42,8 +42,7 @@ I hold several certifications and continue to learn constantly to grow professio
   <img src="https://img.shields.io/badge/-Matplotlib-239120?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib" width="160" height="80">
   <img src="https://img.shields.io/badge/scikit--learn-0.24.2-green)](https://scikit-learn.org/stable/)" alt="Seaborn" width="160" height="80">
 
-  
-  <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" alt="Seaborn" width="160" height="80">
+
   
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" width="160" height="80">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" width="160" height="80">
