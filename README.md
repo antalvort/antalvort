@@ -15,7 +15,6 @@ Cuento con varias certificaciones y sigo en aprendizaje constante para crecer pr
 - 📚 Actualmente estoy aprendiendo **R** y **Power Bi**.
 - 🎯 Mis próximos objetivos incluyen profundizar en **inteligencia artificial** .
 - 💬 Pregúntame sobre **Ciencia de datos, análisis de datos** o **automatización**.
-- 
 
 ### Tecnologías que uso
 
