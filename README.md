@@ -16,6 +16,8 @@ Cuento con varias certificaciones y sigo en aprendizaje constante para crecer pr
 - 🎯 Mis próximos objetivos incluyen profundizar en **inteligencia artificial** .
 - 💬 Pregúntame sobre **Ciencia de datos, análisis de datos** o **automatización**.
 
+  <br>
+
 ---------------------------------------------------------------------------------------------
 
 What does this button do? ⏺️
@@ -23,12 +25,12 @@ That is the question I have asked myself the most throughout my life. Reverse en
 Always driven by this curiosity, I have oriented my career towards analytics, data science, and machine learning.
 I hold several certifications and continue to learn constantly to grow professionally in this field.
 
-	•	📊 In my portfolio, you can see the projects I have been working on. 📊
-	•	📚 I am currently learning R and Power BI.
-	•	🎯 My next goals include diving deeper into artificial intelligence.
-	•	💬 Ask me about Data Science, data analysis, or automation.
+- 📊 In my portfolio, you can see the projects I have been working on. 📊
+- 📚 I am currently learning R and Power BI.
+- 🎯 My next goals include diving deeper into artificial intelligence.
+- 💬 Ask me about Data Science, data analysis, or automation.
 
-Let me know if you need any adjustments!
+<br>
 
 ### Tecnologías que uso
 
