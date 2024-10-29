@@ -58,7 +58,7 @@ I hold several certifications and continue to learn constantly to grow professio
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antonio123&show_icons=true&theme=radical)
 
 ### Proyectos destacados 🚀
-- [Proyecto completo análisis de datos y predicción de supervivencia]((https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20ciencia%20de%20datos/titanic-competition%20(2).ipynb)): Hecho con Jupiter notebook y aplicando Pandas,Numpy, Matplotlib, Seaborn y keras.
+- [Proyecto completo análisis de datos y predicción de supervivencia](https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20ciencia%20de%20datos/titanic-competition%20(2).ipynb): Hecho con Jupiter notebook y aplicando Pandas,Numpy, Matplotlib, Seaborn y keras.
 - [Análisis de Ventas](https://github.com/Antonio123/analisis-ventas): Proyecto de visualización de datos en Tableau.
 
 ### Conéctate conmigo
