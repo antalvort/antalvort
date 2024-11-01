@@ -2,6 +2,11 @@
 
 # ¡Hola! 👋 Soy Antonio!
 
+## Proyectos destacados 🚀
+- [Proyecto completo análisis de datos y predicción de supervivencia](https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20ciencia%20de%20datos/titanic-competition%20(2).ipynb): Hecho con Jupiter notebook y aplicando Pandas,Numpy, Matplotlib, Seaborn y keras.
+- [Ejercicio con redes neuronales](https://github.com/antalvort/Mi-portfolio/blob/main/Proyectos%20ciencia%20de%20datos/Ejercicio_mnist.ipynb): Hecho con Keras
+- [Análisis de Ventas](https://github.com/Antonio123/analisis-ventas): Proyecto de visualización de datos en Tableau.
+
 ### Ciencia de datos | Análisis de datos | Explorando el análisis de datos con Python, Tableau y R 📊
 
 (English below 👇🏻)
@@ -54,9 +59,7 @@ I hold several certifications and continue to learn constantly to grow professio
 
 </div>
 
-## Proyectos destacados 🚀
-- [Proyecto completo análisis de datos y predicción de supervivencia](https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20ciencia%20de%20datos/titanic-competition%20(2).ipynb): Hecho con Jupiter notebook y aplicando Pandas,Numpy, Matplotlib, Seaborn y keras.
-- [Análisis de Ventas](https://github.com/Antonio123/analisis-ventas): Proyecto de visualización de datos en Tableau.
+
 
 ## Conéctate conmigo
 - [LinkedIn](https://www.linkedin.com/in/antonio-jos%C3%A9-%C3%A1lvarez-ortiz-291936294/)
