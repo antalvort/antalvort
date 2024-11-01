@@ -34,6 +34,11 @@ I hold several certifications and continue to learn constantly to grow professio
 - 📚 I am currently learning R and Power BI.
 - 🎯 My next goals include diving deeper into artificial intelligence.
 - 💬 Ask me about Data Science, data analysis, or automation.
+  <br>
+
+  ## Conecta conmigo
+- [LinkedIn](https://www.linkedin.com/in/antonio-jos%C3%A9-%C3%A1lvarez-ortiz-291936294/)
+- Gmail antoniojosealvarezortiz82@gmail.com
 
 <br>
 
@@ -61,6 +66,4 @@ I hold several certifications and continue to learn constantly to grow professio
 
 
 
-## Conéctate conmigo
-- [LinkedIn](https://www.linkedin.com/in/antonio-jos%C3%A9-%C3%A1lvarez-ortiz-291936294/)
-- Gmail antoniojosealvarezortiz82@gmail.com
+
