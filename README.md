@@ -3,6 +3,7 @@
 # ¡Hola! 👋 Soy Antonio!
 
 ## Proyectos destacados 🚀
+- [Competicion de Kaggle sobre enfermedades mentales](https://github.com/antalvort/Mi-portfolio/blob/b92acee21dd1d0bd92279ebf593e0efb9b21768a/Proyectos%20ciencia%20de%20datos/kaggle_depression.ipynb):El objetivo es determinar la probabilidad de sufrir depresión
 - [Proyecto completo análisis de datos y predicción de supervivencia](https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20ciencia%20de%20datos/titanic-competition%20(2).ipynb): Hecho con Jupiter notebook y aplicando Pandas,Numpy, Matplotlib, Seaborn y keras.
 - [Proyecto de análisis y predicción con Tensorflow](https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20Data%20Analyst/proyecto_sanlucar.ipynb) Sobre la trayectoria del Atl. Sanlúcar C.F.
 - [Análisis Predictivo](https://github.com/antalvort/Mi-portfolio/blob/35e2a8d375f45add2f12771c378f881698743215/Proyectos%20Data%20Analyst/Sea%20Level/sea_level_predictor.ipynb): Ejemplo de regresion lineal con sklearn
